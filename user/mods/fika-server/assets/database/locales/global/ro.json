@@ -37,7 +37,6 @@
     "F_MMUI_HostRaidButton": "GĂZDUIEȘTE RAID",
     "F_MMUI_JoinButton": "ALĂTURĂ-TE",
     "F_MMUI_SelectAmountHeader": "SELECTAȚI SUMA",
-    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "Câți oameni (inclusiv dumneavoastră) vor juca?",
     "F_MMUI_UseDedicatedHost": "Utilizați o gazdă dedicată",
     "F_MMUI_StartButton": "Începe",
@@ -65,7 +64,6 @@
     "F_UI_ErrorBindIPHeader": "EROAREDE DE LEGARE",
     "F_UI_ErrorBindIP": "„{0}” nu este o adresă IP validă la care să vă legați! Verificați setarea „Forțare legare IP”.",
     "F_UI_NoDedicatedClients": "Nu sunt disponibili clienți dedicați.",
-    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "Se așteaptă ca gazda să termine inițializarea raidului...",
     "F_UI_WaitForOtherPlayers": "Se așteaptă ca alți jucători să termine încărcarea...",
     "F_UI_RetrieveSpawnInfo": "Se preiau informații despre punctele de apariție de pe server...",
@@ -244,7 +242,5 @@
     "F_MMUI_InStash": "In Stash",
     "F_MMUI_InHideout": "In Hideout",
     "F_MMUI_InFlea": "In Flea",
-    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}",
-    "F_UI_LocaleError_H": "LOCALES ERROR",
-    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
+    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}"
 }

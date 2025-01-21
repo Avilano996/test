@@ -37,7 +37,6 @@
     "F_MMUI_HostRaidButton": "HOSTA RAID",
     "F_MMUI_JoinButton": "UNISCITI",
     "F_MMUI_SelectAmountHeader": "SELEZIONA QUANTITÀ",
-    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "Quante persone (incluso te) giocheranno?",
     "F_MMUI_UseDedicatedHost": "Usa Host Dedicato",
     "F_MMUI_StartButton": "AVVIA",
@@ -65,7 +64,6 @@
     "F_UI_ErrorBindIPHeader": "ERRORE BINDING",
     "F_UI_ErrorBindIP": "'{0}' non è un indirizzo IP valido per il binding! Controlla l'impostazione 'Forza Bind IP'.",
     "F_UI_NoDedicatedClients": "Nessun client dedicato è disponibile.",
-    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "In attesa che l'host concluda l'inizializzazione del raid...",
     "F_UI_WaitForOtherPlayers": "In attesa che gli altri giocatori finiscano di caricare...",
     "F_UI_RetrieveSpawnInfo": "Recupero informazioni di generazione dal server...",
@@ -244,7 +242,5 @@
     "F_MMUI_InStash": "In Stash",
     "F_MMUI_InHideout": "In Hideout",
     "F_MMUI_InFlea": "In Flea",
-    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}",
-    "F_UI_LocaleError_H": "LOCALES ERROR",
-    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
+    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}"
 }

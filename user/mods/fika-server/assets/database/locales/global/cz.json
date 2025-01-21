@@ -37,7 +37,6 @@
     "F_MMUI_HostRaidButton": "Založit RAID",
     "F_MMUI_JoinButton": "PŘIPOJIT",
     "F_MMUI_SelectAmountHeader": "VYBERTE POČET",
-    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "Kolik lidí (včetně vás) bude hrát?",
     "F_MMUI_UseDedicatedHost": "Použít Dedikovaného Hosta",
     "F_MMUI_StartButton": "SPUSTIT",
@@ -65,7 +64,6 @@
     "F_UI_ErrorBindIPHeader": "CHYBA BINDOVÁNÍ",
     "F_UI_ErrorBindIP": "{0} není platná IP adresa pro připojení! Zkontrolujte nastavení 'Vynutit Bindování IP'.",
     "F_UI_NoDedicatedClients": "Dedikovaný klient není k dispozici.",
-    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "Čekáme na zakladatele hry aby dokončil raid inicializaci...",
     "F_UI_WaitForOtherPlayers": "Čekání na ostatní hráče co se načítají...",
     "F_UI_RetrieveSpawnInfo": "Obdržuji informace o spawnu ze serveru...",
@@ -244,7 +242,5 @@
     "F_MMUI_InStash": "In Stash",
     "F_MMUI_InHideout": "In Hideout",
     "F_MMUI_InFlea": "In Flea",
-    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}",
-    "F_UI_LocaleError_H": "LOCALES ERROR",
-    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
+    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}"
 }

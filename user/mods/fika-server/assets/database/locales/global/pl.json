@@ -37,7 +37,6 @@
     "F_MMUI_HostRaidButton": "HOSTUJ RAID",
     "F_MMUI_JoinButton": "DOŁĄCZ",
     "F_MMUI_SelectAmountHeader": "WYBIERZ ILOŚĆ",
-    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "Ile osób (łącznie z tobą) będzie grało?",
     "F_MMUI_UseDedicatedHost": "Użyj Dedykowanego Gospodarza",
     "F_MMUI_StartButton": "START",
@@ -65,7 +64,6 @@
     "F_UI_ErrorBindIPHeader": "BŁĄD POWIĄZANIA",
     "F_UI_ErrorBindIP": "'{0}' nie jest prawidłowym adresem IP do powiązania! Sprawdź ustawienie 'Wymuś powiązanie IP'.",
     "F_UI_NoDedicatedClients": "Brak dostępnych dedykowanych klientów.",
-    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "Oczekiwanie na zakończenie inicjalizacji raidu przez gospodarza...",
     "F_UI_WaitForOtherPlayers": "Oczekiwanie na zakończenie ładowania pozostałych graczy...",
     "F_UI_RetrieveSpawnInfo": "Pobieranie informacji o spawnie z serwera...",
@@ -244,7 +242,5 @@
     "F_MMUI_InStash": "Przegląda Schowek",
     "F_MMUI_InHideout": "W Kryjówce",
     "F_MMUI_InFlea": "Przegląda Rynek",
-    "F_MMUI_RaidDetails": "Gra jako {0} na obszarze {1}\nCzas: {2}",
-    "F_UI_LocaleError_H": "LOCALES ERROR",
-    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
+    "F_MMUI_RaidDetails": "Gra jako {0} na obszarze {1}\nCzas: {2}"
 }
