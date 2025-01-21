@@ -1,0 +1,17 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "Russian",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": true,
+  "GamePath": "C:\\SPT Tarkov\\EscapeFromTarkov_15.5.1.33420_3.10.4\\EscapeFromTarkov",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "Graf",
+      "Password": ""
+    },
+    "Name": "SPT",
+    "Url": "http://26.229.106.128:6969"
+  }
+}
