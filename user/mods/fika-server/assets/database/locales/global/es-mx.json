@@ -37,6 +37,7 @@
     "F_MMUI_HostRaidButton": "ALBERGAR INCURSIÓN",
     "F_MMUI_JoinButton": "UNIRSE",
     "F_MMUI_SelectAmountHeader": "SELECCIONA CANTIDAD",
+    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "¿Cuántas personas (incluyéndote) van a jugar?",
     "F_MMUI_UseDedicatedHost": "Usar Anfitrión Remoto",
     "F_MMUI_StartButton": "COMENZAR",
@@ -64,6 +65,7 @@
     "F_UI_ErrorBindIPHeader": "ERROR ENLAZANDO",
     "F_UI_ErrorBindIP": "'{0}' no es una dirección IP válida para enlazar! Compruebe su configuración de 'Forzar enlace IP'.",
     "F_UI_NoDedicatedClients": "No hay clientes dedicados disponibles.",
+    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "Esperando por el anfitrión para inicializar de la incursión...",
     "F_UI_WaitForOtherPlayers": "Esperando por otros jugadores para terminar la carga...",
     "F_UI_RetrieveSpawnInfo": "Recuperando información de aparición del servidor...",
@@ -242,5 +244,7 @@
     "F_MMUI_InStash": "In Stash",
     "F_MMUI_InHideout": "In Hideout",
     "F_MMUI_InFlea": "In Flea",
-    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}"
+    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}",
+    "F_UI_LocaleError_H": "LOCALES ERROR",
+    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
 }

@@ -37,6 +37,7 @@
     "F_MMUI_HostRaidButton": "RAID LÉTREHOZÁSA",
     "F_MMUI_JoinButton": "CSATLAKOZÁS",
     "F_MMUI_SelectAmountHeader": "ÖSSZEG KIVÁLASZTÁSA",
+    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "Hány ember fog játszani (beleértve téged is)?",
     "F_MMUI_UseDedicatedHost": "Dedicated Host használata",
     "F_MMUI_StartButton": "INDITÁS",
@@ -64,6 +65,7 @@
     "F_UI_ErrorBindIPHeader": "KÖTÉSI HIBA",
     "F_UI_ErrorBindIP": "A '{0}' nem érvényes IP-cím a kötéshez! Ellenőrizze a „Force Bind IP” beállítást.",
     "F_UI_NoDedicatedClients": "Nincsenek dedikált kliensek.",
+    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "Várakozás, hogy a host befejezze a raid inicializálását...",
     "F_UI_WaitForOtherPlayers": "Várakozás, amíg a többi játékos befejezi a betöltést...",
     "F_UI_RetrieveSpawnInfo": "Spawn információk lekérése a szerverről...",
@@ -242,5 +244,7 @@
     "F_MMUI_InStash": "Széfben",
     "F_MMUI_InHideout": "Bunkerben",
     "F_MMUI_InFlea": "Aukciós házban",
-    "F_MMUI_RaidDetails": "Játék {0} ként {1}-en\nIdő: {2}"
+    "F_MMUI_RaidDetails": "Játék {0} ként {1}-en\nIdő: {2}",
+    "F_UI_LocaleError_H": "LOCALES ERROR",
+    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
 }

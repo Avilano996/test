@@ -37,6 +37,7 @@
     "F_MMUI_HostRaidButton": "레이드 호스트하기",
     "F_MMUI_JoinButton": "참가",
     "F_MMUI_SelectAmountHeader": "양을 선택하십시오.",
+    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "당신을 포함하여 몇 명의 플레이어가 참가합니까?",
     "F_MMUI_UseDedicatedHost": "전담 호스트를 사용하여 주십시오",
     "F_MMUI_StartButton": "시작",
@@ -64,6 +65,7 @@
     "F_UI_ErrorBindIPHeader": "바인딩 에러",
     "F_UI_ErrorBindIP": "{0} 은 바인드하기 유효한 IP주소가 아닙니다. IP 강제 바인드 설정을 확인해주십시오.",
     "F_UI_NoDedicatedClients": "사용가능한 전담 클라이언트가 없습니다.",
+    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "호스트의 레이드 초기화 대기중",
     "F_UI_WaitForOtherPlayers": "다른 플레이어들의 로딩 대기중",
     "F_UI_RetrieveSpawnInfo": "서버에서 스폰 정보 받아오는중",
@@ -242,5 +244,7 @@
     "F_MMUI_InStash": "In Stash",
     "F_MMUI_InHideout": "In Hideout",
     "F_MMUI_InFlea": "In Flea",
-    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}"
+    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}",
+    "F_UI_LocaleError_H": "LOCALES ERROR",
+    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
 }

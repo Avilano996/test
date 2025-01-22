@@ -37,6 +37,7 @@
     "F_MMUI_HostRaidButton": "HOST RAID",
     "F_MMUI_JoinButton": "JOIN",
     "F_MMUI_SelectAmountHeader": "SELECT AMOUNT",
+    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "How many people (including you) will be playing?",
     "F_MMUI_UseDedicatedHost": "Use Dedicated Host",
     "F_MMUI_StartButton": "START",
@@ -64,6 +65,7 @@
     "F_UI_ErrorBindIPHeader": "ERROR BINDING",
     "F_UI_ErrorBindIP": "'{0}' is not a valid IP address to bind to! Check your 'Force Bind IP' setting.",
     "F_UI_NoDedicatedClients": "No dedicated clients are available.",
+    "F_UI_WaitForHostStartRaid": "Waiting for host to start the raid...",
     "F_UI_WaitForHostFinishInit": "Waiting for host to finish raid initialization...",
     "F_UI_WaitForOtherPlayers": "Waiting for other players to finish loading...",
     "F_UI_RetrieveSpawnInfo": "Retrieving spawn info from server...",
@@ -242,5 +244,7 @@
     "F_MMUI_InStash": "In Stash",
     "F_MMUI_InHideout": "In Hideout",
     "F_MMUI_InFlea": "In Flea",
-    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}"
+    "F_MMUI_RaidDetails": "Playing as a {0} on {1}\nTime: {2}",
+    "F_UI_LocaleError_H": "LOCALES ERROR",
+    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
 }
